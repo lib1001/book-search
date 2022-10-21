@@ -28,6 +28,8 @@ apollo-boost, apollo-server-express, express.js, node.js, mongoose, graphql
 
 ## Usage:
 
+[Link to deployed application](https://lb-book-search.herokuapp.com/)
+
 Upon opening the application, the user is presented with a search bar and a login/signup option. If the user types in a search, the top 10 results will appear. When the user is logged in or signed up, they can save books. Wgen viewing their saved books, the user then has the option to remove books from the list.
 
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
